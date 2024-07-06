@@ -1,0 +1,2 @@
+c:\xPacks\Windows-build-tools\xpack-qemu-arm-8.2.2-1\bin\qemu-system-gnuarmeclipse.exe -mcu STM32F103RB -board NUCLEO-F103RB --image Task2.elf 
+pause 0
